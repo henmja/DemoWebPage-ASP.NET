@@ -1,0 +1,28 @@
+﻿#content {
+    max-width: 1000px;
+    margin: auto;
+    left: 1%;
+    right: 1%;
+    position: relative;
+}
+.auto-style1 {
+    width: 140px;
+    height: 130px;
+}
+
+.auto-style2 {
+    width: 180px;
+    height: 200px;
+}
+
+.auto-style3 {
+    width: 760px;
+    height: 200px;
+}
+#menu {
+    background-color:steelblue;
+    color:yellow;
+}
+#products {
+    left:100px;
+}
